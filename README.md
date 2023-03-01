@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LihLei-Stats
+- 👋 Hi, I’m lhlei
 - 👀 I’m interested in statistical inference in high-dimensional statistics and computational linguistics. 
 - 🌱 I’m currently a graduate student in Zhejiang University, China, where I received my bachelar degree. 
 - 📫 If you have an anything interested in my project or myself, feel free to contact me with email lihenglei33@gmail.com. 
